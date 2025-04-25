@@ -1,0 +1,1 @@
+export const Card = (props) => <div {...props}>card</div>;
